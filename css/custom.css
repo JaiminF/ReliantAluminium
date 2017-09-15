@@ -1,0 +1,57 @@
+
+
+.navbar-brand img{
+	width:180px;
+	height:77px;
+}
+
+.des-pru th{ color:#f4f236!important; font:bold 14px Calibri!important; border:solid 1px #62c1f8!important; padding:2px 3px!important}
+
+.des-pru td{ border:solid 1px #62c1f8!important; padding:2px 3px!important}
+
+@media only screen and (min-width: 320px) and (max-width: 1024px) {
+	.logo{ 
+	display:none!important;
+	
+	}
+	
+	.logo01 {
+		display:block;
+		width:180px!important;
+		height:60px!important;
+	
+		}
+		
+		.navbar-brand{
+			padding:4px 0 0 0!important;
+		}
+		
+		
+	
+}
+
+
+@media only screen and (min-width: 1024px) {
+	
+	.logo{ 
+	display:block!important;
+	
+	}
+	
+	.logo01 {
+		display:none;
+	}
+	
+	
+}
+
+
+.get-ritter{
+	text-decoration:underline;
+	float:right;
+	display:block;
+	font:normal 12px/14px Calibri;
+	float:right;
+	line-height:20px;
+	
+	}

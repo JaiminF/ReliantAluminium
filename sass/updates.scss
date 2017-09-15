@@ -1,0 +1,18 @@
+/*
+ * Title:   Updates Style File
+ * Author:  http://themeforest.net/user/soaptheme 
+ */
+
+/* Version 2.6.2 (9/7/2015) */
+
+@media (max-width: 767px) {
+  #booking .booking-info .info { clear: both; }
+}
+
+@media (max-width: 480px) {
+  #booking .booking-info { padding-top: 20px; }
+  #booking .booking-info div.date { float: none; }
+  #profile .personal-details figure { width: auto; }
+  #booking .booking-info .info { float: none; width: auto; margin-top: 10px; }
+  #booking .booking-info .status { float: none; margin-bottom: 15px; }
+}
