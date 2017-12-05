@@ -142,14 +142,13 @@ body {
             color: #0077ff; } }
 
 header.masthead {
-  position: relative;
+  position: absolute;
   width: 100%;
-  min-height: auto;
+  height: 300px;
   text-align: center;
   color: white;
   background-image: url("../banner.jpg");
   background-position: center;
-  -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover; }
@@ -292,7 +291,7 @@ header.masthead {
   fieldset[disabled] .btn-default:hover {
     border-color: white;
     background-color: white; }
-    
+
   .btn-default .badge {
     color: white;
     background-color: #222222; }
